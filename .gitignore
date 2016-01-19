@@ -1,5 +1,11 @@
 /vendor
+/etc
+.vagrant
+.env
+/node_modules
+.idea/
+.DS_Store
 /node_modules
 Homestead.yaml
 Homestead.json
-.env
+
